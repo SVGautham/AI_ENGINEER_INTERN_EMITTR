@@ -1,0 +1,8 @@
+spacy==3.7.2
+transformers==4.44.2
+torch==2.4.0
+keybert==0.8.4
+sentence-transformers==3.0.1
+numpy==1.26.4
+scipy==1.12.0
+pandas==2.2.2
